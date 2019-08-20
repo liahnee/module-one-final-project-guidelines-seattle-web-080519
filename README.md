@@ -50,6 +50,7 @@ Projects need to be approved prior to launching into them, so take some time to 
       - Present any code you would like to highlight.   
 7. *OPTIONAL, BUT RECOMMENDED*: Write a blog post about the project and process.
 
+
 ---
 ### Common Questions:
 - How do I turn off my SQL logger?
@@ -57,3 +58,10 @@ Projects need to be approved prior to launching into them, so take some time to 
 # in config/environment.rb add this line:
 ActiveRecord::Base.logger = nil
 ```
+
+### Resources for projects:
+- [Trello](https://trello.com/)
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [JSON Viewer Chrome Add-In](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- Google Projects
+- GitHub Project Board
