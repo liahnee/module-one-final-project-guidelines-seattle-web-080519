@@ -65,8 +65,3 @@ ActiveRecord::Base.logger = nil
 - [JSON Viewer Chrome Add-In](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
 - Google Projects
 - GitHub Project Board
-- [Ruby Documentation](https://ruby-doc.org/core-2.6.1/)
-- [Ruby Gems](https://rubygems.org/)
-- [Active Record Basiscs](https://guides.rubyonrails.org/active_record_basics.html)
-- [Repl.it](https://repl.it/languages/ruby)
-- Practice SQL to ActiveRecord queries and class associations - [Scuttle](http://www.scuttle.io/)
